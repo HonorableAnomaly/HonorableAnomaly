@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HonorableAnomaly
 - 👀 I’m interested in ... dying to self, sacrificially serving others in love and honoring the Lord in my thoughts, words and actions.
-- 🌱 I’m currently learning ... JavaScript and Python.
+- 🌱 I’m currently learning ... HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... https://www.linkedin.com/in/ricky-argenbright/
 
