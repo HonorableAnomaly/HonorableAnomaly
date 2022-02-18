@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HonorableAnomaly
+- 👋 Hey there, I’m Ricky!
 - 
 - 👀 I’m interested in ... dying to self, sacrificially serving others in love and honoring the Lord with my thoughts, words and actions.
 - My top hobbies involve playing the drums and working with music (including mixing), writing novels, creating art with various mediums and gaming.
