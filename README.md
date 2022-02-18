@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... Dynamic HTML templating using EJS.
 - I have a few dynamic fan website projects I'm slowly working on that I'm pretty excited about (Pokémon and Warcraft lore related). More to come!
 -      
-- 💞️ I’m collaborating on ... a conversationally savvy C-3P0 chatbot.
+- 💞️ I’m collaborating on ... a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most exciting droid yet, but he's coming along.
 - 
 - 📫 How to reach me ... https://www.linkedin.com/in/ricky-argenbright/
 
