@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... dying to self, sacrificially serving others in love and honoring the Lord with my thoughts, words and actions.
 - My top hobbies involve playing the drums and working with music (including mixing), writing novels, creating art with various mediums and gaming.
 -      
-- 🌱 I’m currently learning ... Dynamic HTML templating using EJS.
+- 🌱 I’m currently learning ... Express and Mongoose using MongoDB.
 - I have a few dynamic fan website projects I'm slowly working on that I'm pretty excited about (Pokémon and Warcraft lore related). More to come!
 -      
 - 💞️ I’m collaborating on ... a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most exciting droid yet, but he's coming along.
