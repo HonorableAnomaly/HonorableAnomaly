@@ -4,7 +4,11 @@
 - My top hobbies involve playing the drums and working with music (including mixing), writing novels, creating art with various mediums and gaming.
 -      
 - 🌱 I’m currently learning ... handling errors in Express apps and validating data.
-- I have a few dynamic fan website projects I'm slowly working on that I'm pretty excited about (Pokémon and Warcraft lore related). More to come!
+- 
+- Creative Projects I'm working on - I have a few dynamic fan web projects I'm slowly working on that I'm pretty excited about. More to come!
+- 1) Pokémon collecting and journaling
+- 2) Warcraft lore explorer database
+- 3) Fantasy author updates and news
 -      
 - 💞️ I’m collaborating on ... a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most exciting droid yet, but he's coming along.
 - 
