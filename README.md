@@ -1,7 +1,8 @@
 - 👋 Hey there, I’m Ricky!
 - 
-- 👀 I’m interested in ... dying to self, sacrificially serving others in love and honoring the Lord with my thoughts, words and actions.
-- My top hobbies involve playing the drums and working with music (including mixing), writing novels, creating art with various mediums and gaming.
+- 👀 I’m interested in ... sacrificially serving others in love, dying to self and honoring the Lord with my thoughts, words and actions.
+- 
+- My top hobbies involve playing the drums, reading/writing fantasy novels, creating art with various mediums and gaming.
 -      
 - 🌱 I’m currently learning ... handling errors in Express apps and validating data.
 - 
@@ -10,7 +11,7 @@
 - 2) Warcraft lore explorer database
 - 3) Fantasy author updates and news
 -      
-- 💞️ I’m collaborating on ... a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most exciting droid yet, but he's coming along.
+- 💞️ I’m collaborating on ... a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most riveting droid yet, but he's coming along.
 - 
 - 📫 How to reach me ... https://www.linkedin.com/in/ricky-argenbright/
 
