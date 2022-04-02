@@ -12,8 +12,6 @@
 - 3) Fantasy author updates and news
 -      
 - 💞️ I’m collaborating on ... a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most riveting droid yet, but he's coming along.
-- 
-- 📫 How to reach me ... https://www.linkedin.com/in/ricky-argenbright/
 
 <!---
 HonorableAnomaly/HonorableAnomaly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
