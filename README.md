@@ -4,7 +4,7 @@
 - 
 - My top hobbies involve playing the drums, reading/writing fantasy novels, creating art with various mediums and gaming.
 -      
-- 🌱 I’m currently learning ... handling errors in Express apps and validating data.
+- 🌱 I’m currently learning ... MongoDB relationships with Express.
 - 
 - Creative Projects I'm working on - I have a few dynamic fan web projects I'm slowly working on that I'm pretty excited about. More to come!
 - 1) Pokémon collecting and journaling
