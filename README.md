@@ -1,7 +1,7 @@
 - 👋 Hey there!
 - 
 - I’m interested in ... 
--     - Sacrificially serving others in love, dying to self and honoring the Lord with my thoughts, words and actions.
+-     - Sacrificially serving others in love, denying self and honoring the Lord with my thoughts, words and actions.
 - 
 - My top hobbies involve playing the drums, reading/writing fantasy novels, creating art with various mediums and gaming.
 -      
