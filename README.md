@@ -6,7 +6,7 @@
 - My top hobbies involve playing the drums, reading/writing fantasy novels, creating art with various mediums and gaming.
 -      
 - 🌱 I’m currently learning ... 
--     - Express router, cookies, session and flash.
+-     - Authentication from scratch
 - 
 - Creative projects I'm working on ... 
 -     - I have a few dynamic fan web projects I'm slowly working on that I'm pretty excited about. More to come!
