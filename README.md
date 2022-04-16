@@ -28,13 +28,13 @@
 ### :man_technologist: About Me :
 I'm a home-grown Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Diego, California.
 
-- :telescope: I’m building my own web applications, including a Pokémon explorer's journaling database!
+- :telescope: Right now I’m building my own web applications, including a Pokémon Master's collection, Warcraft lore database, fantasy author hub and narrative web       game.
 
-- :seedling: I'm currently learning authentication, from scratch!
+- :seedling: As far as input goes, I'm currently learning authentication... from scratch!
 
 - :zap: In my free time I invest the lives of others as much as possible. I also like to play the drums, read and write fantasy novels, create art with various mediums         and game.
  
-- I’m collaborating on a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most riveting droid yet, but he's coming along.
+- I’m also collaborating on a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most riveting droid yet, but he's coming along.
 
 
 <!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
