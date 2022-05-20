@@ -32,7 +32,7 @@ I'm a home-grown Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: In my free time I invest in the lives of others as much as possible. I also like to play the drums, read and write fantasy novels, create art with various mediums and game.
   
-- :seedling: As far as input goes, I'm currently learning geolocation and cluster mapping.
+- :seedling: As far as input goes, I'm currently learning common security issues and deployment.
  
 - I’m also collaborating on a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most riveting droid yet, but he's coming along.
 
