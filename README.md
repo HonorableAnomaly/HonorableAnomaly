@@ -13,7 +13,7 @@
   </a>
 </div>
 <div id="views">
-  <img src="https://komarev.com/ghpvc/?username=HonorableAnomaly&style=flat-square&color=blue" alt="View Counter"/>
+<img src="https://profile-counter.glitch.me/HonorableAnomaly/count.svg" alt="HonorableAnomaly :: Visitor's Count" />
 </div>
 <h1>
   Hello there!
@@ -40,7 +40,7 @@ I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpO
 <!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tech Flow :
 <div>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
@@ -63,8 +63,10 @@ I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HonorableAnomaly&theme=highcontrast)](https://git.io/streak-stats)
+### :comet: My Stats :
+  <img src="https://github-readme-stats.vercel.app/api?username=HonorableAnomaly&show_icons=true&theme=prussian" alt="github stats" width="45%" align="right"/>
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HonorableAnomaly&theme=prussian)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HonorableAnomaly&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HonorableAnomaly&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 </div>
