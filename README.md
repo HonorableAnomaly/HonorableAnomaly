@@ -40,7 +40,7 @@ I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpO
 <!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
 ---
 
-### :ocean: Tech Flow :
+### :ocean: Tech Flow
 <div>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
@@ -63,12 +63,24 @@ I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-### :comet: My Stats :
+### :comet: My Stats
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HonorableAnomaly&theme=prussian)](https://git.io/streak-stats)
   
   <img src="https://github-readme-stats.vercel.app/api?username=HonorableAnomaly&show_icons=true&theme=prussian" alt="github stats" width="45%" align="left"/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HonorableAnomaly&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+***
+
+### :milky_way: Other Creative Works
+
+Fun things I like to do in my free time and share with others. Enjoy!
+
+:european_castle: [Fantasy Stories](https://github.com/ArgenbWrite)
+
+:musical_score: [Drum Covers](https://www.youtube.com/user/IceShadow333)
+
+:video_game: [Game Time](https://www.youtube.com/c/RickyArgenbrightShadowFrost333/featured)
 
 ***
