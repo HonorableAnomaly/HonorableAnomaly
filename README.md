@@ -64,9 +64,11 @@ I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 ### :comet: My Stats :
-  <img src="https://github-readme-stats.vercel.app/api?username=HonorableAnomaly&show_icons=true&theme=prussian" alt="github stats" width="45%" align="right"/>
-
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HonorableAnomaly&theme=prussian)](https://git.io/streak-stats)
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=HonorableAnomaly&show_icons=true&theme=prussian" alt="github stats" width="45%" align="left"/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HonorableAnomaly&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+***
