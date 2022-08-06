@@ -95,14 +95,14 @@ Fun things I like to do in my free time and share with others. Enjoy!
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=Advanced-WebDev&theme=prussian" />
 </a>
 <a href="https://github.com/HonorableAnomaly/AppBuild-WebDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=AppBuild-WebDev&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=AppBuild-WebDev&theme=prussian" />
 </a>
 
 <a href="https://github.com/HonorableAnomaly/Essential-WebDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=Essential-WebDev&theme=prussian" />
 </a>
 <a href="https://github.com/HonorableAnomaly/Pokemon-Loader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=Pokemon-Loader&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=Pokemon-Loader&theme=prussian" />
 </a>
 
 ***
