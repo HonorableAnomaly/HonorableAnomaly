@@ -84,3 +84,25 @@ Fun things I like to do in my free time and share with others. Enjoy!
 :video_game: [Game Time](https://www.youtube.com/c/RickyArgenbrightShadowFrost333/featured)
 
 ***
+<a href="https://github.com/HonorableAnomaly/CompassCamp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=compasscamp&theme=prussian" />
+</a>
+<a href="https://github.com/HonorableAnomaly/Pokemon-Master">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=pokemon-master&theme=prussian" />
+</a>
+
+<a href="https://github.com/HonorableAnomaly/Advanced-WebDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=Advanced-WebDev&theme=prussian" />
+</a>
+<a href="https://github.com/HonorableAnomaly/AppBuild-WebDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=AppBuild-WebDev&theme=prussian" />
+</a>
+
+<a href="https://github.com/HonorableAnomaly/Essential-WebDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=Essential-WebDev&theme=prussian" />
+</a>
+<a href="https://github.com/HonorableAnomaly/Pokemon-Loader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=Pokemon-Loader&theme=prussian" />
+</a>
+
+***
