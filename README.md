@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist:
-I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Diego, California aimed at full-stack development.
+I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Diego, California aimed at full-stack development and UX/UI design.
 
 - :telescope: Right now I’m currently building my own web applications, including a Pokémon Master's collection, Warcraft lore database, fantasy author hub and narrative web game. I'm also experimenting with custom loaders, SVG parallax and various API implementations.
 
