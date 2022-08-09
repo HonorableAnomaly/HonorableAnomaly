@@ -28,11 +28,11 @@
 ### :man_technologist:
 I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Diego, California aimed at full-stack development and UX/UI design.
 
-- :telescope: Right now I’m currently building my own web applications, including a Pokémon Master's collection, Warcraft lore database, fantasy author hub and narrative web game. I'm also experimenting with custom loaders, SVG parallax and various API implementations.
+- :telescope: Right now I’m currently building my own web applications, including a Pokémon Master's collection, a lore database, a fantasy author hub and a narrative web game. I'm also experimenting with custom loaders, SVG parallax and various API implementations.
 
 - :zap: In my free time I invest in the lives of others as much as possible. I also like to play the drums, read and write fantasy novels, create art with various mediums and play both board games and video games.
   
-- :seedling: As far as input goes, I'm currently learning advanced JS functionality, algorithms and data structures.
+- :seedling: As far as input goes, I'm currently learning React, MySQL, advanced JS functionality, algorithms and data structures.
  
 - I’m also collaborating on a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most riveting droid yet, but he's coming along.
 
