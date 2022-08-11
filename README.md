@@ -73,6 +73,10 @@ I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ***
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
+***
+
 ### :milky_way: Other Creative Works
 
 Fun things I like to do in my free time and share with others. Enjoy!
