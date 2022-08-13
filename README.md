@@ -44,7 +44,7 @@ I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 <div align="center">
-<h1>:ocean: A Splash of My Favorite Tech Flow :ocean:</h1>
+<h1>:ocean: A Splash of my favorite Tech Flow :ocean:</h1>
 </div>
 
 ---
@@ -116,13 +116,13 @@ I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpO
 <div align="center">
 <h1>:milky_way: Other Creative Works</h1>
 
-Fun things I like to do in my free time and share with others. Enjoy!
+<h3>Fun things I like to do in my free time and share with others. Enjoy!
 
 :european_castle: [Fantasy Stories](https://github.com/ArgenbWrite)
 
 :musical_score: [Drum Covers](https://www.youtube.com/user/IceShadow333)
 
-:video_game: [Game Time](https://www.youtube.com/c/RickyArgenbrightShadowFrost333/featured)
+:video_game: [Game Time](https://www.youtube.com/c/RickyArgenbrightShadowFrost333/featured)</h3>
 
 ***
 <a href="https://github.com/HonorableAnomaly/CompassCamp">
