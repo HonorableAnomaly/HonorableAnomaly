@@ -44,10 +44,13 @@ I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 <div align="center">
-<h2>:ocean: Tech Flow<h2>
+<h1>:ocean: A Splash of My Favorite Tech Flow :ocean:</h1>
+</div>
+
+---
 
 <div align="center">
-<h3>👨‍💻 Programming and Markup Languages<h3>
+<h2>👨‍💻 Programming and Markup Languages</h2>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;
@@ -56,40 +59,50 @@ I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpO
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="35" height="35"/>&nbsp;
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp; -->
 </div>
 
 <div align="center">
-<h3>:books: Frameworks and Libraries<h3>
+<h2>:books: Frameworks and Libraries</h2>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Bulma" alt="Bulma" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="35" height="35"/>&nbsp;
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="35" height="35"/>&nbsp; -->
 </div>
 
 
 <div align="center">
-<h3>:cloud: Databases and Cloud Hosting<h3>
+<h2>:cloud: Databases and Cloud Hosting</h2>
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="35" height="35"/>&nbsp;
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="35" height="35"/>&nbsp; -->
 </div>
 
 <div align="center">
-<h3>💻 Software and Tools<h3>
+<h2>💻 Software and Tools</h2>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="PhotoShop" alt="PhotoShop" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="Maya" alt="Maya" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="Codepen" alt="Codepen" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>&nbsp;
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="35" height="35"/>&nbsp; -->
 </div>
 
 ---
 
 <div align="center">
-<h3>:comet: Stats<h3>
+<h1>:comet: Stats<h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HonorableAnomaly&theme=prussian)](https://git.io/streak-stats)
   
@@ -98,10 +111,10 @@ I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpO
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HonorableAnomaly&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-
 ***
 
-### :milky_way: Other Creative Works
+<div align="center">
+<h1>:milky_way: Other Creative Works</h1>
 
 Fun things I like to do in my free time and share with others. Enjoy!
 
@@ -132,5 +145,6 @@ Fun things I like to do in my free time and share with others. Enjoy!
 <a href="https://github.com/HonorableAnomaly/Pokemon-Loader">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=Pokemon-Loader&theme=prussian" />
 </a>
+</div>
 
 ***
