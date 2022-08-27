@@ -41,6 +41,7 @@
 
 <!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RickyArgenbright-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricky-argenbright/) -->
 ---
+---
 
 <div align="center">
 <h1>:ocean: A Splash of my favorite Tech Flow :ocean:</h1>
