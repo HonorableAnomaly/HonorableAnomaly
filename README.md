@@ -40,6 +40,7 @@
 ### :alien: I’m also collaborating on a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most riveting droid yet, but he's coming along.
 
 <!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RickyArgenbright-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricky-argenbright/) -->
+
 ---
 ---
 
@@ -121,6 +122,9 @@
 <h1>:milky_way: Other Creative Works</h1>
 
 <h3>Fun things I like to do in my free time and share with others. Enjoy!
+<p>
+
+<p/>
 
 :european_castle: [Fantasy Stories](https://github.com/ArgenbWrite)
 
