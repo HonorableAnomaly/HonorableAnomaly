@@ -39,7 +39,7 @@
  
 ### :alien: I’m also collaborating on a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most riveting droid yet, but he's coming along.
 
-<!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RickyArgenbright-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricky-argenbright/) -->
+### :mailbox: You can find me here: [![Linkedin Badge](https://img.shields.io/badge/-RickyArgenbright-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricky-argenbright/) or in several other locations across the web.
 
 ---
 ---
@@ -70,13 +70,13 @@
 <div align="center">
 <h2>:books: Frameworks and Libraries</h2>
 
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="35" height="35"/>&nbsp; -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Bulma" alt="Bulma" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="35" height="35"/>&nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="35" height="35"/>&nbsp; -->
 </div>
 
 
