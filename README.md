@@ -31,7 +31,7 @@
 
 ### :mage: I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Diego, California aimed at full-stack app building while implementing unique and creative design.
 
-### :mountain: Right now I’m currently building my own web applications, including a Pokémon Master's collection, a lore database, an author hub and an RPG resource tracker. I'm also experimenting with custom loaders, SVG parallax and various API implementations.
+### :mountain: Right now I’m currently building my own web applications, including a Pokémon Master's collection, a fantasy lore database, an author hub, an RPG resource tracker and a text-based web game. I'm also experimenting with custom loaders, SVG parallax and various API implementations.
 
 ### :octopus: In my free time I invest in the lives of others as much as possible. I also like to play the drums, read and write fantasy novels, create art with various mediums and play both board games and video games.
   
