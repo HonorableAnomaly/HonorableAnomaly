@@ -146,12 +146,12 @@
 <a href="https://github.com/HonorableAnomaly/Advanced-WebDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=Advanced-WebDev&theme=prussian" />
 </a>
-<a href="https://github.com/HonorableAnomaly/AppBuild-WebDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=AppBuild-WebDev&theme=prussian" />
+<a href="https://github.com/HonorableAnomaly/PokeMart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=PokeMart&theme=prussian" />
 </a>
 
-<a href="https://github.com/HonorableAnomaly/Essential-WebDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=Essential-WebDev&theme=prussian" />
+<a href="https://github.com/HonorableAnomaly/AppBuild-WebDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=AppBuild-WebDev&theme=prussian" />
 </a>
 <a href="https://github.com/HonorableAnomaly/Pokemon-Loader">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=Pokemon-Loader&theme=prussian" />
