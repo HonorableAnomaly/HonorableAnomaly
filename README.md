@@ -151,7 +151,7 @@
 </a>
 
 <a href="https://github.com/HonorableAnomaly/Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=AppBuild-WebDev&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=Python&theme=prussian" />
 </a>
 <a href="https://github.com/HonorableAnomaly/Pokemon-Loader">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=Pokemon-Loader&theme=prussian" />
