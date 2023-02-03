@@ -35,7 +35,7 @@
 
 ### :octopus: In my free time I invest in the lives of others as much as possible. I also like to play the drums, read and write fantasy novels, create art with various mediums and play both board games and video games.
   
-### :zap: As far as input goes, I'm currently learning React, MySQL, advanced JS functionality including various algorithms and data structures, and how to refactor for reusability.
+### :zap: As far as input goes, I'm currently learning React, MySQL, advanced JS functionality including various algorithms and data structures, and Python.
  
 ### :alien: I’m also collaborating on a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most riveting droid yet, but he's coming along.
 
