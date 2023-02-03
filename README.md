@@ -150,7 +150,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=PokeMart&theme=prussian" />
 </a>
 
-<a href="https://github.com/HonorableAnomaly/AppBuild-WebDev">
+<a href="https://github.com/HonorableAnomaly/Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HonorableAnomaly&repo=AppBuild-WebDev&theme=prussian" />
 </a>
 <a href="https://github.com/HonorableAnomaly/Pokemon-Loader">
