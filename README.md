@@ -39,7 +39,7 @@
  
 ### :alien: I’m also collaborating on a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most riveting droid yet, but he's coming along.
 
-### :mailbox: You can find me here: [![Linkedin Badge](https://img.shields.io/badge/-RickyArgenbright-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricky-argenbright/) or in several other locations across the web [![LinkTree Badge](https://img.shields.io/badge/-RickyArgenbright-green?style=flat&logo=LinkTree&logoColor=white)](https://linktr.ee/prism333).
+### :mega: You can find me here: [![Linkedin Badge](https://img.shields.io/badge/-RickyArgenbright-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricky-argenbright/) or in several other locations across the web [![LinkTree Badge](https://img.shields.io/badge/-RickyArgenbright-green?style=flat&logo=LinkTree&logoColor=white)](https://linktr.ee/prism333).
 
 ---
 ---
