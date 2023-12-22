@@ -29,13 +29,13 @@
 
 ---
 
-### :mage: I'm a home-grown web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Diego, California aimed at full-stack app building and web design while implementing unique and creative design.
+### :mage: I'm a home-grown web designer from San Diego, California pursuing my degree in Software Engineering aimed at full-stack application development and cyber security.
 
 ### :mountain: Right now I’m currently building my own web applications, including a Pokémon Master's collection, a fantasy lore database, an author hub, an RPG resource tracker and a text-based web game. I'm also experimenting with custom loaders, SVG parallax and various API implementations.
 
 ### :octopus: In my free time I invest in the lives of others as much as possible. I also like to play the drums, read and write fantasy novels, create art with various mediums and play both board games and video games.
   
-### :zap: As far as input goes, I'm currently learning React, MySQL, advanced JS functionality including various algorithms and data structures, and Python.
+### :zap: As far as input goes, I'm currently learning React, Docker/Kubernetes, MySQL, Python, advanced JS functionality and algorithms/data structures.
  
 ### :alien: I’m also collaborating on a conversationally savvy C-3P0 chatbot with a group of close developers. He's not the most riveting droid yet, but he's coming along.
 
@@ -77,6 +77,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Bulma" alt="Bulma" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="35" height="35"/>&nbsp;
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" title="Jasmine" alt="Jasmine" width="35" height="35"/>&nbsp; -->
 </div>
 
