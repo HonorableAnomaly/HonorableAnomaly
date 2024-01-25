@@ -29,7 +29,7 @@
 
 ---
 
-### :mage: I'm a home-grown web designer from San Diego, California pursuing my degree in Software Engineering aimed at full-stack application development and cyber security.
+### :mage: I'm a home-grown web developer from San Diego, California pursuing my degree in Software Engineering, aimed at full-stack software development.
 
 ### :mountain: Right now I’m currently building my own web applications, including a Pokémon Master's collection, a fantasy lore database, an author hub, an RPG resource tracker and a text-based web game. I'm also experimenting with custom loaders, SVG parallax and various API implementations.
 
